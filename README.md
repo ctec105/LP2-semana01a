@@ -7,5 +7,5 @@ Crear una aplicación Web Java en Eclipse con Servlets y JSPs (Parte 1 - Introdu
 https://joseltoro.blogspot.com/2017/04/1-crear-una-aplicacion-web-java-en.html
 
 # Herramientas:
-Eclipse (Entorno de desarrollo integrado)
-Apache Tomcat (Contenedor de servlets)
+- Eclipse (Entorno de desarrollo integrado)
+- Apache Tomcat (Contenedor de servlets)
